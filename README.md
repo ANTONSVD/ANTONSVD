@@ -1,6 +1,6 @@
 # Привет, я ANTON SVD 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F7C948&lines=GameHacking+Developer;Bug+Hunter;Lua+%2F+C+%2F+C%2B%2B+%2F+Python;Reverse+Engineering+%26+Exploit+Research;Welcome+to+my+profile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=8B5CF6&lines=GameHacking+Developer;Bug+Hunter;Lua+%2F+C+%2F+C%2B%2B+%2F+Python;Reverse+Engineering+%26+Exploit+Research;Welcome+to+my+profile+)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ANTONSVD&style=for-the-badge&color=blueviolet" alt="visitors"/>
 
@@ -20,7 +20,7 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANTONSVD&show_icons=true&theme=radical&locale=ru&include_all_commits=true&count_private=true)]()
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ANTONSVD&theme=radical&locale=ru)]()
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ANTONSVD&theme=radical&locale=ru)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANTONSVD&layout=compact&theme=radical&locale=ru)]()
 
@@ -61,9 +61,9 @@
 local me = {
     name = "ANTON SVD",
     role = "GameHacking Developer",
-    languages = { "Lua", "C", "C++", "C#", "Python", "JS" },
+    languages = { "Lua", "C", "C++", "Python", "JS" },
     focus = "Reverse Engineering & Exploits",
-    favorite_quote = "Client is always right."
+    favorite_quote = "Client is not always right."
 }
 ```
 </details>
