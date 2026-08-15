@@ -1,6 +1,6 @@
 # Привет, я ANTON SVD 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F7C948&lines=GameHacking+Developer;Lua+%2F+C%2B%2B+%2F+Python;Reverse+Engineering+%26+Exploit+Research;Welcome+to+my+profile+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=F7C948&lines=GameHacking+Developer;Bug+Hunter;Lua+%2F+C+%2F+C%2B%2B+%2F+Python;Reverse+Engineering+%26+Exploit+Research;Welcome+to+my+profile+)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ANTONSVD&style=for-the-badge&color=blueviolet" alt="visitors"/>
 
@@ -10,28 +10,9 @@
 
 ---
 
-## 🧑‍💻 Обо мне
-
-🔐 **GameHacking Developer** — разработка читов, эксплойтов и инструментов для анализа игр.
-
-- 🔭 Сейчас работаю над: обфускацией Lua-кода и анализом серверных дампов SCP-RP
-- 🌱 Изучаю: реверс-инжиниринг, античит-байпас, низкоуровневую разработку
-- 🎯 Цель: сделать проект, который удивит комьюнити
-- ⚡ Факт: если сервер думает, что клиент прав — клиент прав
-
----
-
 ## 🛠 Языки и технологии
 
-[![My Skills](https://skillicons.dev/icons?i=lua,c,cpp,csharp,python,js,html,css,git,github&theme=dark)](https://skillicons.dev)
-
-| Язык | Направление |
-|---|---|
-| **Lua** | Читы для GMod, обфускация, эксплойты |
-| **C / C++** | Низкоуровневые хуки, реверс, память |
-| **C#** | Инструменты, утилиты |
-| **Python** | Скрипты, анализ дампов, парсинг |
-| **JS / HTML / CSS** | Дашборды, UI для тулзов |
+[![My Skills](https://skillicons.dev/icons?i=lua,c,cpp,python,js,html,css,git,github,vscode,devto&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -53,7 +34,15 @@
 
 ## 📈 График активности
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ANTONSVD&theme=redical&bg_color=0d1117&color=f7c948&line=e34c26&point=f7c948&hide_border=true)]()
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ANTONSVD&theme=redical&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=7c3aed&area_color=6d28d9&hide_border=true)]()
+
+---
+
+## 🐍 Снейк-вклад
+
+<p align="center">
+  <img src="snake.svg" alt="snake" width="100%" />
+</p>
 
 ---
 
