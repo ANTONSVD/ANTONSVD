@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&color=8B5CF6&width=620&lines=GameHacking+Developer;Bug+Hunter;Lua+%2F+C+%2F+C%2B%2B+%2F+Python;Reverse+Engineering+%26+Exploit+Research;Welcome+to+my+profile+)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=ANTONSVD&style=for-the-badge&color=blueviolet" alt="visitors"/>
-
 <p align="center">
   <img src="gachiakuta-riyo-riyo-reaper.gif" alt="banner" width="60%" />
 </p>
