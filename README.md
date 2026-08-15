@@ -5,7 +5,7 @@
 <img src="https://komarev.com/ghpvc/?username=ANTONSVD&style=for-the-badge&color=blueviolet" alt="visitors"/>
 
 <p align="center">
-  <img src="gachiakuta-riyo-riyo-reaper.gif" alt="banner" width="100%" />
+  <img src="gachiakuta-riyo-riyo-reaper.gif" alt="banner" width="60%" />
 </p>
 
 ---
@@ -57,14 +57,14 @@
 <details>
 <summary>👀 Немного обо мне в цифрах</summary>
 
-```lua
-local me = {
-    name = "ANTON SVD",
-    role = "GameHacking Developer",
-    languages = { "Lua", "C", "C++", "Python", "JS" },
-    focus = "Reverse Engineering & Exploits",
-    favorite_quote = "Client is not always right."
-}
+```cpp
+struct Me {
+    const char* name       = "ANTON SVD";
+    const char* role       = "GameHacking Developer";
+    std::vector<const char*> languages = { "Lua", "C", "C++", "Python", "JS" };
+    const char* focus      = "Reverse Engineering & Exploits";
+    const char* favorite_quote = "Client is not always right.";
+};
 ```
 </details>
 
