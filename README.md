@@ -18,17 +18,17 @@
 
 ## 📊 Статистика GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ANTONSVD&show_icons=true&theme=radical&locale=ru&include_all_commits=true&count_private=true)]()
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ANTONSVD&show_icons=true&theme=radical&locale=ru&include_all_commits=true&count_private=true)]()
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ANTONSVD&theme=radical&locale=ru)]()
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ANTONSVD&layout=compact&theme=radical&locale=ru)]()
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ANTONSVD&layout=compact&theme=radical&locale=ru&langs_count=5)]()
 
 ---
 
 ## 🏆 Достижения
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ANTONSVD&theme=radical&row=1&column=6&no-frame=true)]()
+[![Trophies](https://trophy.ryglcloud.net/?username=ANTONSVD&theme=radical&row=1&column=6&no-frame=true)]()
 
 ---
 
