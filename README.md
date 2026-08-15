@@ -18,9 +18,9 @@
 
 ## 📊 Статистика GitHub
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ANTONSVD&show_icons=true&theme=radical&locale=ru&include_all_commits=true&count_private=true&card_width=620)]()
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ANTONSVD&show_icons=true&locale=ru&include_all_commits=true&count_private=true&card_width=620&bg_color=0d1117&title_color=8b5cf6&text_color=a78bfa&icon_color=7c3aed&ring_color=8b5cf6&hide_border=true)]()
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ANTONSVD&layout=compact&theme=radical&locale=ru&langs_count=5)]()
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ANTONSVD&layout=compact&locale=ru&langs_count=5&bg_color=0d1117&title_color=8b5cf6&text_color=a78bfa&icon_color=7c3aed&hide_border=true)]()
 
 ---
 
