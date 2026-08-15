@@ -18,11 +18,17 @@
 
 ## 📊 Статистика GitHub
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ANTONSVD&show_icons=true&theme=radical&locale=ru&include_all_commits=true&count_private=true)]()
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ANTONSVD&theme=radical&locale=ru)]()
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ANTONSVD&show_icons=true&theme=radical&locale=ru&include_all_commits=true&count_private=true&card_width=620)]()
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=ANTONSVD&layout=compact&theme=radical&locale=ru&langs_count=5)]()
+
+---
+
+## 🚀 Мои проекты
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=ANTONSVD&repo=UnionTools&theme=radical)]()
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=ANTONSVD&repo=UnionSlivSite&theme=radical)]()
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin?username=ANTONSVD&repo=Discord-Webhook-Tool&theme=radical)]()
 
 ---
 
